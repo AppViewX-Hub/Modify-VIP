@@ -1,2 +1,2 @@
 # Modify-VIP
-Standard template to modify the Virtual Server on ADC device's (F5, A10, Citrix)
+ Used to modify the configuration of an existing virtual server on a F5/Citrix Netscaler load balancer
